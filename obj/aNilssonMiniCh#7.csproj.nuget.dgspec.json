@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonAReverseIt/aNilssonMiniCh#7/aNilssonMiniCh#7.csproj": {}
+    "C:\\Users\\jacob\\OneDrive\\Documents\\CodeStack\\GitRepository\\aNilssonMiniCh-7\\aNilssonMiniCh#7.csproj": {}
   },
   "projects": {
-    "/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonAReverseIt/aNilssonMiniCh#7/aNilssonMiniCh#7.csproj": {
+    "C:\\Users\\jacob\\OneDrive\\Documents\\CodeStack\\GitRepository\\aNilssonMiniCh-7\\aNilssonMiniCh#7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonAReverseIt/aNilssonMiniCh#7/aNilssonMiniCh#7.csproj",
+        "projectUniqueName": "C:\\Users\\jacob\\OneDrive\\Documents\\CodeStack\\GitRepository\\aNilssonMiniCh-7\\aNilssonMiniCh#7.csproj",
         "projectName": "aNilssonMiniCh#7",
-        "projectPath": "/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonAReverseIt/aNilssonMiniCh#7/aNilssonMiniCh#7.csproj",
-        "packagesPath": "/Users/drewnilsson/.nuget/packages/",
-        "outputPath": "/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonAReverseIt/aNilssonMiniCh#7/obj/",
+        "projectPath": "C:\\Users\\jacob\\OneDrive\\Documents\\CodeStack\\GitRepository\\aNilssonMiniCh-7\\aNilssonMiniCh#7.csproj",
+        "packagesPath": "C:\\Users\\jacob\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jacob\\OneDrive\\Documents\\CodeStack\\GitRepository\\aNilssonMiniCh-7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/drewnilsson/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\jacob\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

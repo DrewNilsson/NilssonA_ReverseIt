@@ -28,3 +28,18 @@
 /Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonAReverseIt/aNilssonMiniCh#7/bin/Debug/net6.0/aNilssonMiniCh#7.pdb
 /Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonAReverseIt/aNilssonMiniCh#7/obj/Debug/net6.0/aNilssonMiniCh#7.genruntimeconfig.cache
 /Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonAReverseIt/aNilssonMiniCh#7/obj/Debug/net6.0/ref/aNilssonMiniCh#7.dll
+C:\Users\jacob\OneDrive\Documents\CodeStack\GitRepository\aNilssonMiniCh-7\bin\Debug\net6.0\aNilssonMiniCh#7.exe
+C:\Users\jacob\OneDrive\Documents\CodeStack\GitRepository\aNilssonMiniCh-7\bin\Debug\net6.0\aNilssonMiniCh#7.deps.json
+C:\Users\jacob\OneDrive\Documents\CodeStack\GitRepository\aNilssonMiniCh-7\bin\Debug\net6.0\aNilssonMiniCh#7.runtimeconfig.json
+C:\Users\jacob\OneDrive\Documents\CodeStack\GitRepository\aNilssonMiniCh-7\bin\Debug\net6.0\aNilssonMiniCh#7.dll
+C:\Users\jacob\OneDrive\Documents\CodeStack\GitRepository\aNilssonMiniCh-7\bin\Debug\net6.0\aNilssonMiniCh#7.pdb
+C:\Users\jacob\OneDrive\Documents\CodeStack\GitRepository\aNilssonMiniCh-7\obj\Debug\net6.0\aNilssonMiniCh#7.csproj.AssemblyReference.cache
+C:\Users\jacob\OneDrive\Documents\CodeStack\GitRepository\aNilssonMiniCh-7\obj\Debug\net6.0\aNilssonMiniCh#7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\OneDrive\Documents\CodeStack\GitRepository\aNilssonMiniCh-7\obj\Debug\net6.0\aNilssonMiniCh#7.AssemblyInfoInputs.cache
+C:\Users\jacob\OneDrive\Documents\CodeStack\GitRepository\aNilssonMiniCh-7\obj\Debug\net6.0\aNilssonMiniCh#7.AssemblyInfo.cs
+C:\Users\jacob\OneDrive\Documents\CodeStack\GitRepository\aNilssonMiniCh-7\obj\Debug\net6.0\aNilssonMiniCh#7.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Documents\CodeStack\GitRepository\aNilssonMiniCh-7\obj\Debug\net6.0\aNilssonMiniCh#7.dll
+C:\Users\jacob\OneDrive\Documents\CodeStack\GitRepository\aNilssonMiniCh-7\obj\Debug\net6.0\refint\aNilssonMiniCh#7.dll
+C:\Users\jacob\OneDrive\Documents\CodeStack\GitRepository\aNilssonMiniCh-7\obj\Debug\net6.0\aNilssonMiniCh#7.pdb
+C:\Users\jacob\OneDrive\Documents\CodeStack\GitRepository\aNilssonMiniCh-7\obj\Debug\net6.0\aNilssonMiniCh#7.genruntimeconfig.cache
+C:\Users\jacob\OneDrive\Documents\CodeStack\GitRepository\aNilssonMiniCh-7\obj\Debug\net6.0\ref\aNilssonMiniCh#7.dll
